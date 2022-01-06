@@ -3,7 +3,4 @@ Flask
 Flask-WTF
 WTForms
 joblib
-sklearn
-xgboost
-scikit-learn
 gunicorn
