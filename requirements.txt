@@ -1,6 +1,6 @@
 numpy
 Flask
-Flask-WTF
-WTForms
+scikit-learn
 joblib
 gunicorn
+xgboost
